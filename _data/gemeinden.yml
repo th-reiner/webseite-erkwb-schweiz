@@ -1,0 +1,15 @@
+- city: Basel
+  house: "C.F. Spittler-Haus"
+  adress: Socinstrasse 13
+  zip: 4051
+  service: Sonntag, 11 Uhr
+  url: basel.erkwb.ch
+  image: /assets/images/lokal-basel.jpg
+
+- city: Winterthur
+  house: Standort 19
+  adress: Schlachthofstrasse 19
+  zip: 8406
+  service: Sonntag, 10 Uhr
+  url: winterthur.erkwb.ch
+  image: /assets/images/lokal-winterthur.jpg

@@ -1,45 +1,21 @@
 ---
+layout: page
 title: Gemeinden
-subtitle: ERKWB in der Schweiz und Österreich
+subtitle: ERKWB in der Schweiz
 ---
 
-## Schweiz
+{% for item in site.data.gemeinden %}
 
-### [ERKWB Basel](http://basel.erkwb.ch)
+## [ERKWB {{ item.city }}](http://{{ item.url }})
 
-C.F. Spittler-Haus  
-Socinstrasse 13  
-4051 Basel
+![Lokal der ERKWB {{ item.city }}]({{ item.image }})
 
-[Gottesdienst: Sonntag, 11 Uhr.](http://basel.erkwb.ch/gottesdienste/)
+{{ item.house }}<br />
+{{ item.adress }}<br />
+{{ item.zip }} {{ item.city }}
 
-### [ERKWB Winterthur](http://winterthur.erkwb.ch)
+Gottesdienst: {{ item.service }}
 
-Schlachthofstrasse 19  
-8406 Winterthur
+{% endfor %}
 
-[Gottesdienst: Sonntag, 10 Uhr.](http://winterthur.erkwb.ch/gottesdienste/)
-
-
-## Österreich
-
-### [ERKWB Neuhofen](http://www.reformiert.at/church/kirche.htm)
-
-Steyrerstrasse 35  
-A-4501 Neuhofen an der Krems
-
-[Gottesdienst: Sonntag, 9.30 Uhr.](http://www.reformiert.at/gemeinden/gd.htm)
-
-### [ERKWB Rankweil](http://www.reformiert.at/church/kirche.htm)
-
-Feldkreuzweg 13  
-A-6830 Rankweil
-
-[Gottesdienst: Sonntag, 10 Uhr.](http://www.reformiert.at/gemeinden/gd.htm)
-
-### [New City Wien](http://new.newcitywien.at/de/willkommen-ncw/)
-
-Wiedner Hauptstrasse 45  
-A-4010 Wien
-
-[Gottesdienste: Sonntag, 15 Uhr und 17 Uhr.](http://new.newcitywien.at/de/willkommen-ncw/)
+Gemeinden der [Evangelisch-reformierten Kirche in Österreich](http:www.reformiert.at).

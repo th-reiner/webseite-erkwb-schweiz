@@ -1,11 +1,12 @@
 ---
+layout: page
 title: Evangelium
 subtitle: Was ist das Evangelium?
 ---
 
 In einem Satz gesagt: Das Evangelium ist die gute Nachricht, dass Jesus Christus, der eine und einzige Gerechte, für unsere Sünden gestorben und auferstanden ist, ewig siegreich über alle seine Feinde triumphiert, und es nun auch für die, die glauben, keine Verdammnis mehr gibt, sondern nur ewige Freude.
 
-> Und Jesus Christus sprach zu ihnen: Gehet hin in alle Welt und predigt das Evangelium aller Kreatur.  
+> Und Jesus Christus sprach zu ihnen: Gehet hin in alle Welt und predigt das Evangelium aller Kreatur.
 (Markus 16,16)
 
 ## Warum ist das Evangelium eine gute Nachricht?
@@ -20,5 +21,5 @@ Am dritten Tag ist Christus auferstanden. Gott, der Vater, hat ihn zurück ins L
 
 Der heilige Gott ruft all jene Menschen auf, die ihre verzweifelte Lage erkennen, ihn um Hilfe anzurufen. Sagen Sie es ihm, dass Sie gesündigt haben und seine Strafe verdienen. Sagen Sie es ihm, dass es Ihnen leidtut, dass Sie seine Gerechtigkeit missachtet haben. Sagen Sie es ihm, dass Sie seinen Sohn als Retter anerkennen, und bitten Sie ihn um Vergebung. Der allgegenwärtige und wahrhaftige Gott wird dieses Gebet hören und an Ihnen die Verheissung seines Evangeliums erfüllen.
 
-> Wer an den Sohn glaubt, der hat das ewige Leben.  
+> Wer an den Sohn glaubt, der hat das ewige Leben.
 (Johannes 3,36a)
