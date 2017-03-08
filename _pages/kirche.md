@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Kirche
 subtitle: Evangelisch-reformierte Kirche Westminster Bekenntnisses
 ---

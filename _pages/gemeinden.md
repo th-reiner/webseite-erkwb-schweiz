@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Gemeinden
 subtitle: ERKWB in der Schweiz
 ---
@@ -18,4 +17,4 @@ Gottesdienst: {{ item.service }}
 
 {% endfor %}
 
-Gemeinden der [Evangelisch-reformierten Kirche in Österreich](http:www.reformiert.at).
+Gemeinden der [Evangelisch-reformierten Kirche Westminster Bekenntnisses in Österreich](http:www.reformiert.at).

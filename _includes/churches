@@ -1,0 +1,31 @@
+<div class="churches_wrapper">
+    <h2>Gemeinden</h2>
+
+    {% for item in site.data.gemeinden %}
+    <div class="congregation">
+        <h3>{{ item.city }}</h3>
+        <div class="cong_local_pic">
+            <img src="{{ item.picture }}" alt="Lokal der ERKWB {{ item.city }}" />
+        </div>
+        <div class="cong_adress">
+            <p>
+            {% if item.house %}
+            {{ item.house }}<br />
+            {% endif %}
+            {{ item.adress }}<br />
+            {{ item.zip }} {{ item.city }}
+            </p>
+        </div>
+        <p>Gottesdienst: {{ item.service }}</p>
+
+    </div>
+
+    {% endfor %}
+
+    <div class="church_international">
+        <img src="/assets/images/ext-link.png" alt="Externer Link" />
+        <p>
+            <a href="http://www.reformiert.at">ERKWB in &Ouml;sterreich</a>
+        </p>
+    </div>
+</div>

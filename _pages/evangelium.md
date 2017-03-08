@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Evangelium
 subtitle: Was ist das Evangelium?
 ---
